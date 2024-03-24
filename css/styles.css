@@ -312,10 +312,14 @@
   margin-left: -460px;
 }
 .main-container .koz-k {
+  /* Rectangle 10 */
+  position: absolute;
   width: 494px;
   height: 510px;
-  margin-top: 500px;
-  margin-left: 710px;
+  left: 2617px;
+  right: 129px;
+  top: 2456px;
+  bottom: 49px;
 }
 .main-container .main-rk2 {
   width: 762px;
@@ -328,4 +332,18 @@
   margin-left: 700px;
   width: 368px;
   height: 368px;
-}/*# sourceMappingURL=styles.css.map */
+}
+.main-container .rasim-svg {
+  position: absolute;
+  width: 392px;
+  height: 410px;
+  left: 2525px;
+  top: 2506px;
+}
+.main-container .rasim-png {
+  position: absolute;
+  width: 368px;
+  height: 387px;
+  left: 2516px;
+  top: 2518px;
+}
